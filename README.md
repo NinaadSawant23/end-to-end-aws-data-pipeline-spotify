@@ -1,6 +1,6 @@
 # Spotify AWS Data Pipeline
 
-This project demonstrates how to build an end-to-end data pipeline using AWS services — S3, Glue, Athena, and QuickSight — to analyze Spotify data.
+This project demonstrates how to build an end-to-end data pipeline using AWS services - S3, Glue, Athena, and QuickSight - to analyze Spotify data.
 
 ## 📊 Architecture
 
